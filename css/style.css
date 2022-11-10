@@ -17,3 +17,9 @@ header{
    height: 300px;
    background-color: blue;
 }
+
+.my_card{
+   height: 200px;
+   background-color: brown;
+   border: 2px solid yellow;
+}
