@@ -5,16 +5,23 @@ header{
    text-align: center;
 }
 
+body{
+   background-color: aqua;
+}
+
 footer{
    background-color: rgb(37, 35, 35);
    color: white;
 }
 
-
+/* ------------------------------ */
 
 [class^="col"]{
-   border: 2px solid yellow;
+   border: 2px solid rgb(109, 109, 3);
 }
+
+
+/* ------------------------------ */
 
 
 .my_bigbanner{
