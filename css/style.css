@@ -5,6 +5,11 @@ header{
    text-align: center;
 }
 
+footer{
+   background-color: rgb(37, 35, 35);
+   color: white;
+}
+
 
 
 [class^="col"]{
@@ -23,3 +28,4 @@ header{
    background-color: brown;
    border: 2px solid yellow;
 }
+
