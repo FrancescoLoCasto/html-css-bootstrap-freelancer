@@ -1,5 +1,5 @@
 header{
-   height: 40vh;
+   color: white;
    background-color: #1abc9c;
    margin-bottom: 2rem;
    text-align: center;
@@ -24,7 +24,6 @@ footer{
 
 .my_bigbanner{
    margin-top: 2rem;
-   background-color: blue;
 }
 
 .my_bigbanner img{
