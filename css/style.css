@@ -1,6 +1,6 @@
 header{
    height: 40vh;
-   background-color: green;
+   background-color: #1abc9c;
    margin-bottom: 2rem;
    text-align: center;
 }
@@ -10,7 +10,6 @@ body{
 }
 
 footer{
-   background-color: rgb(37, 35, 35);
    color: white;
 }
 
@@ -33,5 +32,18 @@ footer{
    height: 200px;
    background-color: brown;
    border: 2px solid yellow;
+}
+
+section.about-us{
+   background-color: #1abc9c;
+}
+
+#first-footer{
+   background-color: #3a546d;
+
+}
+
+#second-footer{
+   background-color: #2c3e50;
 }
 
