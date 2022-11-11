@@ -37,8 +37,6 @@ nav{
 
 .my_card{
    height: 300px;
-   background-color: brown;
-   border: 2px solid yellow;
 }
 
 .my_card img{
@@ -48,6 +46,7 @@ nav{
 
 section.about-us{
    background-color: #1abc9c;
+   color: white;
 }
 
 #first-footer{
