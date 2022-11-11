@@ -36,9 +36,14 @@ nav{
 }
 
 .my_card{
-   height: 200px;
+   height: 300px;
    background-color: brown;
    border: 2px solid yellow;
+}
+
+.my_card img{
+   width: 100%;
+   height: 100%;
 }
 
 section.about-us{
