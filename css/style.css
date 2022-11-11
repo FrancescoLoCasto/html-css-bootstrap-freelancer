@@ -24,8 +24,12 @@ footer{
 
 .my_bigbanner{
    margin-top: 2rem;
-   height: 300px;
    background-color: blue;
+}
+
+.my_bigbanner img{
+   height: 200px;
+   width: 200px;
 }
 
 .my_card{
